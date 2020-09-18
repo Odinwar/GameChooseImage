@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GameChonHinh</string>
+    <string name="new_game">New Game</string>
+    <!--    StartGameActivity-->
+    <string name="StartGameActivity_title">Choose Image Game</string>
+    <string name="StartGameActivity_time">Time  :  60 Seconds</string>
+    <string name="StartGameActivity_create_by">Create By VQ</string>
+    <!-- MainActivity -->
+    <string name="MainGameActivity_title">Select the image below </string>
+    <string name="MainGameActivity_toast_back">
+        You have not selected image \n
+        Score -15 points
+    </string>
+    <string name="Score">Score</string>
+    <string name="EndGame">End Game</string>
+    <string name="Correct">Correct !</string>
+    <string name="Incorrect">Incorrect !</string>
+    <string name="Exit">Exit</string>
+    <string name="Retry">Retry</string>
+    <string-array name="list_img">
+        <item>img1</item>
+        <item>img2</item>
+        <item>img3</item>
+        <item>img4</item>
+        <item>img5</item>
+        <item>img6</item>
+        <item>img7</item>
+        <item>img8</item>
+        <item>img9</item>
+        <item>img10</item>
+        <item>img11</item>
+        <item>img12</item>
+        <item>img13</item>
+        <item>img14</item>
+        <item>img15</item>
+        <item>img16</item>
+        <item>img17</item>
+        <item>img18</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameChonHinh</string>
+    <string name="new_game">Chơi Mới</string>
+    <!--    StartGameActivity-->
+    <string name="StartGameActivity_title">Trò chơi chọn hình ảnh</string>
+    <string name="StartGameActivity_time">thời gian : 60 giây</string>
+    <string name="StartGameActivity_create_by">Tạo bởi VQ</string>
+    <!-- MainActivity -->
+    <string name="MainGameActivity_title">Chọn hình ảnh bên dưới </string>
+    <string name="MainGameActivity_toast_back">
+        Bạn không chọn ảnh \n
+        Điểm số bị trừ 15 điểm
+    </string>
+    <string name="Score">Điểm</string>
+    <string name="EndGame">Kết thúc </string>
+    <string name="Correct">Đúng rồi !</string>
+    <string name="Incorrect">Sai rồi !</string>
+    <string name="Exit">Thoát</string>
+    <string name="Retry">Chơi lại</string>
+
+</resources>
